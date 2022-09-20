@@ -1,0 +1,115 @@
+# Whitepaper-Dbank
+Whitepaper DBANK
+DBank - The World’s First De-Centralized Bank
+The concept of banking has been around for many years, and so has the concept of de-centralization. For the first time, DBank combines the two to create a new model of decentralized bank, in which all operations and management of DBank are decentralized, and with the help of various innovative technologies in the blockchain, we can implement traditional banking services such as deposits, withdrawals, and loans, as well as various blockchain- based decentralized functions such as DAO, token issuance, and automatic dividend distribution.
+
+🔗 What can DBank do?
+Deposit
+Users can deposit unused digital assets into DBank in order to enjoy the yield interest.
+
+Withdrawal
+Users can withdraw funds at any time, and the entire process is automated, allowing funds to be deposited in less than one minute.
+
+Loans
+DBank specializes in lending against various collateralized assets in the blockchain market, using automation and the highest security measures based on the blockchain, enabling a series of operations such as automatic lending, automatic repayment, and automatic release of collateral.
+
+DAO
+DBank adopts the DAO distributed governance model, and all major decisions after the platform is in operation, including the addition of new collateral cases, dividends, and token issuance, are managed through the DAO.
+
+🔗 Why choose DBank?
+High Profit Rate
+Thanks to its decentralized operating model, DBank can generate unprecedented profits for its users.
+
+High Revenue
+DBank selects the highest quality, most reliable assets in the blockchain industry for collateralized loans. Such projects generally offer high interest rates, ensuring a high return for the user.
+
+Low Cost
+We don’t need a single office building to operate, we don’t need thousands of employees, we don’t need travel expenses to get around the world, and we don’t have many high level executives earning tens of millions of dollars a year. Everything runs automatically on the blockchain, and only a fraction of the profits are paid to us to keep things going.
+
+High Returns
+Because of its decentralized nature, DBank’s profit distribution plan is designed to favor the users, with 80% of the profits going to the users.
+
+Low Risk
+DBank will use a portion of its profits (about 10%) to establish an insurance pool to prevent additional losses to our clients in the event of extreme circumstances.
+
+Superior Speed
+Because all of DBank’s processes are automated, DBank offers speed and efficiency unmatched by traditional banks
+
+1 second - DBank is deployed on the world’s fastest public chain, so an operation can be completed in 1 second
+1 minute - Our deposits, withdrawals, and loans can be processed in 1 minute
+1 hour - Loan interest is calculated every hour
+1 day - Dividends and payouts are paid automatically every day
+1 year - Dbank is available 24 hours a day, every day throughout the year.
+High Security
+Security is the most important core element of Internet banking, without it nothing is safe, DBank’s security is based on the following aspects.
+
+Proven Technology
+DBank secures the system with the help of various established blockchain encryption technologies. DBank uses offline wallets, multiple signatures, hot and cold wallets, and other methods to hedge against risks for the bank account.
+
+Automated Processes
+DBank’s system is based on smart contracts, and all processes are automatically scheduled by a de- centralized system, basically eliminating the possibility of errors.
+
+Transparent Management
+Unlike traditional banks, DBank is a blockchain-based decentralized bank, so all fund operations are open and transparent, and users can view the movement of each fund and the balance of each account to ensure the absolute safety of their funds.
+
+🔗 DBank’s Profit Distribution and Token Issuance Plan
+Profit Distribution
+50% - to be distributed back to users and to pay interest on deposits
+50% - allocated to the token staker, i.e. platform shareholders
+Deposit Interest Calculation
+The deposit interest is issued once a day, and is calculated according to the total profit of the platform on that day (ie, loan interest income) and the proportion of user deposits. The specific formula is as follows:
+
+Earned interest = profit of the platform on the day * 50% * user’s daily Deposit Quota / platform’s total Deposit Quota on the day
+
+Deposit Quota
+For the healthy development of the platform, we encourage users to make long-term deposits, so the longer the deposit period, the higher the multiple, and the higher the returns.
+
+Deposit Quota = the balance of the specified type of deposit * the specified type of deposit multiple
+
+The table of various types of deposit multiples is as follows:
+
+Demand deposit, multiplier of 1
+30-day term deposit with multiples of 2
+90-day fixed deposit in multiples of 3
+300-day fixed deposit in multiples of 5
+Token Issuance
+The total number of tokens to be issued is 1,000,000,000. Of which
+
+500,000,000 - for liquidity bonus
+200,000,000 - for public offering
+200,000,000 - for founding team awards
+100,000,000 - for the establishment of an insurance fund
+Liquidity Reward Tokens - 500,000,000
+It is used to reward customers who provide liquidity, that is, savings users of the platform. As long as they hold deposits on the platform, they can get a certain amount of tokens every day.
+
+Circulation Reward Token Distribution Scheme
+In order to reward deposit users who participated in the platform in the early stage, the distribution mode of liquidity reward tokens is a proportional decreasing method. The daily release amount (20,000 pieces) will be reduced every 100 days as follows:
+
+1st 100 days, 480,000 coins will be released daily
+2nd 100 days, 460,000 coins will be released per day
+3rd 100 days, 440,000 coins will be released per day
+…
+15th 100 days, 200,000 coins will be released daily until all released
+Liquidity Reward Token Calculation Method
+Liquidity reward tokens are issued once a day, and are calculated based on the amount released on the day, the proportion of user deposits and the amount of released tokens on the day. The specific formula is as follows:
+
+The number of tokens the user should get = the number of tokens released on the day * the user’s daily Deposit Quota / the platform’s total Deposit Quota on the day
+
+Public Token Offering - 200,000,000
+The public offering of tokens is for initial fundraising for platform development and initial investment. The public offering of tokens will be issued in 10 installments, with 10% issued in each installment (ie 20,000,000) In the first phase, the price is fixed at 0.03USDC, and the funds are used for initial platform development. When the project is launched, it will be issued simultaneously and purchased by seed investors. In other periods, the issue price will be determined according to the development of the platform and the market conditions of the token, and the funds will be used for platform promotion and operation, system maintenance, function research and development, iterative upgrade, etc.
+
+Founding Team Token 200,000,000
+In order to ensure the long-term stable and reliable operation of the platform, and to reward the tokens reserved by the founding team. The lock-up period is two years, and there is no liquidity within two years. After two years, 0.1% of them, or 200,000 coins, will be released every day to prevent fluctuations and effects on the token price.
+
+Insurance Fund Tokens 100,000,000
+In order to ensure the safety of platform customers and deal with possible emergencies, insurance fund tokens are established. This part of the token is managed and used through the DAO.
+
+🔗 DBank’s Development Roadmap
+May 2022 - Completion of major feature development and testing
+June 2022 - Official launch
+July 2022 - The number of customers exceeded 1,000, and the scale of deposits and loans exceeded 1,000,000
+August 2022 - Open liquidity mining function
+September 2022 - The number of customers exceeded 10,000, and the scale of deposits and loans exceeded 10,000,000
+October 2022 - Complete the first exchange listing
+November 2022 - The number of customers exceeded 100,000, and the scale of deposits and loans exceeded 100,000,000
+December 2022 - The number of customers exceeded 1,000,000, and the scale of deposits and loans exceeded 1,000,000,000
